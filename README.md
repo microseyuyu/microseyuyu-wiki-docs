@@ -1,2 +1,9 @@
-# microseyuyu-wiki-docs
-this repo is for making docs for microseyuyu by teamwork
+# README
+
+Hi ~
+
+首先非常感谢你参与 microseyuyu-wiki 的项目, 并且为此项目做出贡献, 那么以下我将会说明一下这个 repo 是如何运作的
+
+## RAW
+
+该文件夹当中所放置的都是需要加工的粗文件, 其中的文件编号都是没有任何意义的, 请按照
