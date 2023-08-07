@@ -4,6 +4,24 @@ Hi ~
 
 首先非常感谢你参与 microseyuyu-wiki 的项目, 并且为此项目做出贡献, 那么以下我将会说明一下这个 repo 是如何运作的
 
+## 文件结构
+
+树状图
+
+```
+.
+├── README.md
+└── Test paper
+    ├── RAW
+    │   ├── x.docx
+    │   ├── xx.docx
+    │   ├── xxx.docx
+    └── finished
+        ├── TPxxxxx.md
+        └── finished-raw
+            └── x.docx
+```
+
 ## RAW
 
 该文件夹当中所放置的都是需要加工的粗文件, 其中的文件编号都是没有任何意义的, 请按照试卷排版的规则对其中的文档进行编排
