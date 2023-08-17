@@ -30,12 +30,12 @@
 | 语文 |        | 2024届统编版高中语文高三第一轮复习                 | TP00028-29-30 | forward       | 33,34,35 |
 | 语文 |        | 新乡市高二期中测试语文                             | TP00033       | forward       | 42       |
 | 地理 |        | 地球的宇宙环境 | TP00007-38-39 | forward | 21，47,48 |
-| 地理 |        | 太阳对地球的影响 | TP00009 | yuyu，forward | 9 |
+| 地理 |        | 太阳对地球的影响 | TP00009 | yuyu，forward | 91 |
 | 地理 |        | 地球的历史 | TP00010 | yuyu，forward | 12 |
-|      |        |                                                    |               |               |          |
-|      |        |                                                    |               |               |          |
-|      |        |                                                    |               |               |          |
-|      |        |                                                    |               |               |          |
+| 地理 |        | 地球的圈层结构 |               |               | [49](https://www.zxxk.com/soft/40081592.html),[50](https://www.zxxk.com/soft/40161600.html),[51](https://www.zxxk.com/soft/40269064.html) |
+| 地理 |        | 第一章复习与测试 |               |               | [52](https://www.zxxk.com/soft/39746455.html),[53](https://www.zxxk.com/soft/39679187.html) |
+| 地理 |        | 第一节	大气的组成和垂直 |               |               | [54](https://www.zxxk.com/soft/40270032.html),[55](https://www.zxxk.com/soft/39679149.html),[56](https://www.zxxk.com/soft/39679173.html) |
+| 地理 |        | 第二节	大气受热过程和大气 |               |               | [57](https://www.zxxk.com/soft/39679175.html),[58](https://www.zxxk.com/soft/39679174.html),[59](https://www.zxxk.com/soft/39679150.html) |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
