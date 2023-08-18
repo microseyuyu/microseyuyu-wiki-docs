@@ -36,7 +36,7 @@
 | 地理 |        | 第一章复习与测试 |               |               | [52](https://www.zxxk.com/soft/39746455.html),[53](https://www.zxxk.com/soft/39679187.html) |
 | 地理 |        | 第一节	大气的组成和垂直 |               |               | [54](https://www.zxxk.com/soft/40270032.html),[55](https://www.zxxk.com/soft/39679149.html),[56](https://www.zxxk.com/soft/39679173.html) |
 | 地理 |        | 第二节	大气受热过程和大气 |               |               | [57](https://www.zxxk.com/soft/39679175.html),[58](https://www.zxxk.com/soft/39679174.html),[59](https://www.zxxk.com/soft/39679150.html) |
-|      |        |                                                    |               |               |          |
+| 数学 |        | 集合的概念同步练习 | TP00040 |               | 3 |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
