@@ -1,7 +1,7 @@
 | 科目 | 知识点 | 标题                                               | 编号          | 负责人        | RAW      |
 | ---- | ------ | -------------------------------------------------- | ------------- | ------------- | -------- |
 | 历史 |        | 从中华文明起源到秦汉统一多民族封建国家的建立与巩固 | TP00006       | forward       | 2        |
-| 历史 |        | 中华文明的起源与早期国家                           | TP00002-32    | forward，yuyu | 5，43，[60](https://www.zxxk.com/soft/40363192.html) |
+| 历史 |        | 中华文明的起源与早期国家                           | TP00002-32-41 | forward，yuyu | 5，43，[60](https://www.zxxk.com/soft/40363192.html)，[62](https://www.zxxk.com/soft/40362290.html) |
 | 历史 |        | 诸侯纷争与变法运动                                 | TP00005       | forward       | 1        |
 | 历史 |        | 秦统一多民族封建国家的建立                         | TP00003       | forward       | 8        |
 | 历史 |        | 西汉与东汉——统一多民族封建国家的巩固               | TP00004       | forward       | 7        |
@@ -37,7 +37,7 @@
 | 地理 |        | 第一节	大气的组成和垂直 |               |               | [54](https://www.zxxk.com/soft/40270032.html),[55](https://www.zxxk.com/soft/39679149.html),[56](https://www.zxxk.com/soft/39679173.html) |
 | 地理 |        | 第二节	大气受热过程和大气 |               |               | [57](https://www.zxxk.com/soft/39679175.html),[58](https://www.zxxk.com/soft/39679174.html),[59](https://www.zxxk.com/soft/39679150.html) |
 | 数学 |        | 集合的概念同步练习 | TP00040 |               | 3 |
-|      |        |                                                    |               |               |          |
+| 生物 |        | 走近细胞 | TP00042 |               | [61](https://www.zxxk.com/soft/39916490.html)， |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
 |      |        |                                                    |               |               |          |
